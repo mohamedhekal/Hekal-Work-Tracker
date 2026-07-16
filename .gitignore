@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.build-venv/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local personal work data (do not publish)
+data/work_sessions.json
+data/work_hours_backup.xlsx
+data/*.xlsx
+data/*.json
+!data/.gitkeep
