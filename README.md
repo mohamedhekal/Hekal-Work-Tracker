@@ -6,6 +6,15 @@ A clean desktop work-hours tracker for freelancers, contractors, and anyone paid
 
 **Version 1.1.1** · macOS app · Arabic-first UI · 100% local · Open source
 
+[![Release](https://img.shields.io/github/v/release/mohamedhekal/Hekal-Work-Tracker)](https://github.com/mohamedhekal/Hekal-Work-Tracker/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
+
+### Download for macOS
+
+**[Download HekalWorkTracker-1.1.1.dmg](https://github.com/mohamedhekal/Hekal-Work-Tracker/releases/latest)**
+
+Open the DMG → drag the app to Applications → right-click → **Open** on first launch.
+
 ---
 
 ## Why Hekal Work Tracker?
